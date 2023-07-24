@@ -9,3 +9,5 @@
   * [第二课 - これは　本です](charpter-1/lesson-2/README.md)
     * [单词](charpter-1/lesson-2/vacab.md)
     * [课文&语法](charpter-1/lesson-2/text-grammar.md)
+  * [第三课 - ここれ　デパートです](charpter-1/lesson-3/README.md)
+    * [单词](charpter-1/lesson-3/vocab.md)
