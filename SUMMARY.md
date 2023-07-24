@@ -11,3 +11,4 @@
     * [课文&语法](charpter-1/lesson-2/text-grammar.md)
   * [第三课 - ここれ　デパートです](charpter-1/lesson-3/README.md)
     * [单词](charpter-1/lesson-3/vocab.md)
+    * [课文&语法](charpter-1/lesson-3/text-grammar.md)
