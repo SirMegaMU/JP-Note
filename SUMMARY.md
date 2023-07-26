@@ -13,5 +13,5 @@
     * [单词](charpter-1/lesson-3/vocab.md)
     * [课文&语法](charpter-1/lesson-3/text-grammar.md)
   * [第四课 - 部屋は　机と　いすが　あります](charpter-1/lesson-4/README.md)
-    * [课文&语法](charpter-1/lesson-4/text-grammar.md)
     * [单词](charpter-1/lesson-4/vocab.md)
+    * [课文&语法](charpter-1/lesson-4/text-grammar.md)
