@@ -4,6 +4,7 @@
 * [其他](addition/README.md)
   * [日语五十音&音/声调](addition/pronounce.md)
   * [动词](addition/verb.md)
+  * [数字](addition/number.md)
 * [ 第一单元 - 小李赴日](chapter-1/README.md)
   * [第一课 - 李さんは　中国人です](chapter-1/lesson-1/README.md)
     * [单词](chapter-1/lesson-1/vocab.md)
@@ -21,3 +22,4 @@
   * [第五课 - 森さんは　７時に　起きます](chapter-2/lesson-5/README.md)
     * [单词](chapter-2/lesson-5/vocab.md)
     * [课文&语法](chapter-2/lesson-5/text-grammar.md)
+
