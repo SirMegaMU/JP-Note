@@ -18,7 +18,7 @@
   * [第四课 - 部屋は　机と　いすが　あります](chapter-1/lesson-4/README.md)
     * [单词](chapter-1/lesson-4/vocab.md)
     * [课文&语法](chapter-1/lesson-4/text-grammar.md)
-* [第2单元 - 小李的公司生活—①](chapter-2/README.md)
+* [第2单元 - 小李的公司生活 - ①](chapter-2/README.md)
   * [第五课 - 森さんは　７時に　起きます](chapter-2/lesson-5/README.md)
     * [单词](chapter-2/lesson-5/vocab.md)
     * [课文&语法](chapter-2/lesson-5/text-grammar.md)
