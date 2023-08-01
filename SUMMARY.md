@@ -22,7 +22,10 @@
   * [第五课 - 森さんは　７時に　起きます](chapter-2/lesson-5/README.md)
     * [单词](chapter-2/lesson-5/vocab.md)
     * [课文&语法](chapter-2/lesson-5/text-grammar.md)
-  * [第五课 - 吉田さんは　来月　中国へ　いき](chapter-2/lesson-6/README.md)
+  * [第六课 - 吉田さんは　来月　中国へ　いき](chapter-2/lesson-6/README.md)
     * [单词](chapter-2/lesson-6/vocab.md)
     * [课文&语法](chapter-2/lesson-6/text-grammar.md)
+  * [第七课 - 李さんは　毎日　コーヒーを　飲みます](chapter-2/lesson-7/README.md)
+    * [单词](chapter-2/lesson-7/vocab.md)
+    * [课文&语法](chapter-2/lesson-7/text-grammar.md)
 
