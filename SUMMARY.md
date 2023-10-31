@@ -28,4 +28,6 @@
   * [第七课 - 李さんは　毎日　コーヒーを　飲みます](chapter-2/lesson-7/README.md)
     * [单词](chapter-2/lesson-7/vocab.md)
     * [课文&语法](chapter-2/lesson-7/text-grammar.md)
-
+  * [第八课 - 李さんは　日本語で　手紙を　書きます](chapter-2/lesson-8/README.md)
+    * [单词](chapter-2/lesson-8/vocab.md)
+    * [课文&语法](chapter-2/lesson-8/text-grammar.md)
